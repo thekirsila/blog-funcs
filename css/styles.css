@@ -1,0 +1,52 @@
+@charset "utf-8";
+article {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	max-width: 700px;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	padding-top: 3px;
+	padding-right: 12px;
+	padding-bottom: 1px;
+	padding-left: 12px;
+	border: 1px solid #C8C8C8;
+	margin-bottom: 20px;
+}
+h3 {
+	border-bottom: 1px solid #c8c8c8;
+}
+
+body {
+	background-color: #F7F7F7;
+}
+#quote {
+	padding-top: 10px;
+	padding-bottom: 2px;
+}
+#right-quote {
+	margin-left: 580px;
+	margin-bottom: 3px;
+}
+#blacklabelhairandvintage {
+	margin-top: 10px;
+}
+a, a:link, a:hover, a:visited, a:active {
+    color: black;
+    text-decoration: none;
+}
+#link {
+    text-decoration: underline;
+    color: blue;
+}
+
+
+
+@media (max-width:735px){
+article {
+	width: 95%;
+}
+#right-quote {
+	margin-left: 485px;
+}
+}
