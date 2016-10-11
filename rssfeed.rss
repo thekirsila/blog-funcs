@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Michaels Midweek Madness</title>
+    <link>michaelsmidweekmadness.com</link>
+    <item>
+      <title>The title of post 3</title>
+      <pubDate>Wed, 20 Apr 2016 17:15:18 +0300</pubDate>
+      <link>apreviewblog.com/post.php?postNumber=3</link>
+      <guid isPermaLink="true">apreviewblog.com/post.php?postNumber=3</guid>
+      <description><![CDATA[The description of post 3]]></description>
+    </item>
+    <item>
+      <title>The title of post 2</title>
+      <pubDate>Wed, 20 Apr 2016 17:15:18 +0300</pubDate>
+      <link>apreviewblog.com/post.php?postNumber=2</link>
+      <guid isPermaLink="true">apreviewblog.com/post.php?postNumber=2</guid>
+      <description><![CDATA[The description of post 2]]></description>
+    </item>
+    <item>
+      <title>The title of post 1</title>
+      <pubDate>Wed, 20 Apr 2016 17:15:18 +0300</pubDate>
+      <link>apreviewblog.com/post.php?postNumber=1</link>
+      <guid isPermaLink="true">apreviewblog.com/post.php?postNumber=1</guid>
+      <description><![CDATA[The description of post 1]]></description>
+    </item>
+  </channel>
+</rss>
